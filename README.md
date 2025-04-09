@@ -3,11 +3,9 @@ VAR-based AI refer system for soccer matches
 
 
 link for the data :
-
 https://drive.google.com/drive/folders/1ObDe8S_zYzOgA4r5rC4eeoRzUzaV8zC5?usp=drive_link
 
 sample of the output :
-
 https://drive.google.com/drive/folders/1-086VN7QtZ_6zffJXYlpJqbPdnl2KcHx?usp=sharing
 
 **Overview of the Idea :**
